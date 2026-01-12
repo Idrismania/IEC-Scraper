@@ -6,6 +6,7 @@ This repository automatically downloads the International Experience Canada (IEC
 
 ## Project Structure
 
+```
 weekly-scraper/
 ├── scrape.py                  # Python script that downloads XML
 ├── requirements.txt           # Python dependencies
@@ -16,6 +17,7 @@ weekly-scraper/
 │   └── workflows/
 │       └── daily_iec_scraper.yml   # GitHub Actions workflow
 └── .gitignore                 # ignores venv, cache files, DS_Store
+```
 
 ## How It Works
 
