@@ -1,0 +1,18 @@
+venv/
+
+
+# cache 
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# editors
+*.swp
+*.swo
+*.idea/
+*.vscode/
+
+# macos
+.DS_Store
+

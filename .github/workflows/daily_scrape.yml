@@ -1,0 +1,32 @@
+name: daily_iec_scraper
+
+on:
+  schedule:
+    - cron: '22 22 * * *' # 6 PM ET 
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Run scraper
+        run: python scrape.py
+
+      - name: Commit XML files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github"
+          git add data/*.xml
+          git commit -m "Add daily IEC XML" || echo "No changes to commit"
+          git push
