@@ -21,7 +21,7 @@ jobs:
         run: pip install requests
 
       - name: Run scraper
-        run: python scrape.py
+        run: python scraper.py
 
       - name: Commit XML files
         run: |
