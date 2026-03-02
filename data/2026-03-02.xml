@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <temp>
-<chancesdate><![CDATA[February 20, 2026]]></chancesdate>
+<chancesdate><![CDATA[March 2, 2026]]></chancesdate>
 
 <country location="Andorra" category="wh" code="an"><quota><![CDATA[24]]></quota><first><![CDATA[Week of January 19, 2026]]></first><second><![CDATA[To be announced]]></second><invitations><![CDATA[3]]></invitations><candidates><![CDATA[0]]></candidates><spots><![CDATA[22]]></spots><chances><![CDATA[1]]></chances></country>
 <country location="Australia" category="coop" code="au"><quota><![CDATA[17]]></quota><first><![CDATA[Week of January 19, 2026]]></first><second><![CDATA[To be announced]]></second><invitations><![CDATA[3]]></invitations><candidates><![CDATA[0]]></candidates><spots><![CDATA[15]]></spots><chances><![CDATA[1]]></chances></country>
@@ -47,7 +47,7 @@
 <country location="Italy" category="coop" code="it"><quota><![CDATA[23]]></quota><first><![CDATA[Week of January 19, 2026]]></first><second><![CDATA[To be announced]]></second><invitations><![CDATA[27]]></invitations><candidates><![CDATA[3]]></candidates><spots><![CDATA[9]]></spots><chances><![CDATA[1]]></chances></country>
 <country location="Italy" category="wh" code="it"><quota><![CDATA[1,850]]></quota><first><![CDATA[Week of January 19, 2026]]></first><second><![CDATA[To be announced]]></second><invitations><![CDATA[1457]]></invitations><candidates><![CDATA[85]]></candidates><spots><![CDATA[978]]></spots><chances><![CDATA[1]]></chances></country>
 <country location="Italy" category="yp" code="it"><quota><![CDATA[60]]></quota><first><![CDATA[Week of January 19, 2026]]></first><second><![CDATA[To be announced]]></second><invitations><![CDATA[60]]></invitations><candidates><![CDATA[2]]></candidates><spots><![CDATA[41]]></spots><chances><![CDATA[1]]></chances></country>
-<country location="Japan" category="wh" code="jp"><quota><![CDATA[To be announced]]></quota><first><![CDATA[To be announced]]></first><second><![CDATA[To be announced]]></second><invitations><![CDATA[To be announced]]></invitations><candidates><![CDATA[5,437]]></candidates><spots><![CDATA[To be announced]]></spots><chances><![CDATA[0]]></chances></country>
+<country location="Japan" category="wh" code="jp"><quota><![CDATA[6,283]]></quota><first><![CDATA[Week of March 2, 2026]]></first><second><![CDATA[To be announced]]></second><invitations><![CDATA[To be announced]]></invitations><candidates><![CDATA[5,509]]></candidates><spots><![CDATA[6,283]]></spots><chances><![CDATA[0]]></chances></country>
 <country location="Korea, Republic" category="coop" code="kr"><quota><![CDATA[50]]></quota><first><![CDATA[Week of January 19, 2026]]></first><second><![CDATA[To be announced]]></second><invitations><![CDATA[4]]></invitations><candidates><![CDATA[4]]></candidates><spots><![CDATA[49]]></spots><chances><![CDATA[1]]></chances></country>
 <country location="Korea, Republic" category="wh" code="kr"><quota><![CDATA[10,239]]></quota><first><![CDATA[Week of January 19, 2026]]></first><second><![CDATA[To be announced]]></second><invitations><![CDATA[5,507]]></invitations><candidates><![CDATA[289]]></candidates><spots><![CDATA[6,545]]></spots><chances><![CDATA[1]]></chances></country>
 <country location="Korea, Republic" category="yp" code="kr"><quota><![CDATA[200]]></quota><first><![CDATA[Week of January 19, 2026]]></first><second><![CDATA[To be announced]]></second><invitations><![CDATA[90]]></invitations><candidates><![CDATA[5]]></candidates><spots><![CDATA[169]]></spots><chances><![CDATA[1]]></chances></country>
@@ -95,7 +95,6 @@
 <country location="United Kingdom" category="coop" code="gb"><quota><![CDATA[15]]></quota><first><![CDATA[Week of January 19, 2026]]></first><second><![CDATA[To be announced]]></second><invitations><![CDATA[20]]></invitations><candidates><![CDATA[3]]></candidates><spots><![CDATA[13]]></spots><chances><![CDATA[1]]></chances></country>
 <country location="United Kingdom" category="wh" code="gb"><quota><![CDATA[9,330]]></quota><first><![CDATA[Week of January 19, 2026]]></first><second><![CDATA[To be announced]]></second><invitations><![CDATA[8,585]]></invitations><candidates><![CDATA[430]]></candidates><spots><![CDATA[3,370]]></spots><chances><![CDATA[1]]></chances></country>
 <country location="United Kingdom" category="yp" code="gb"><quota><![CDATA[322]]></quota><first><![CDATA[Week of January 19, 2026]]></first><second><![CDATA[To be announced]]></second><invitations><![CDATA[441]]></invitations><candidates><![CDATA[29]]></candidates><spots><![CDATA[168]]></spots><chances><![CDATA[1]]></chances></country>
-
 
 
 	
